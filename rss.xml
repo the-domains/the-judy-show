@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Judy Show]]></title>
         <description><![CDATA[The Judy Show]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-judy-show/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 00:44:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 00:45:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-judy-show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>What do you get when you mix an internationally acclaimed impersonator, outrageous comedy, great standards and a bevy of icons? The hysterical parody of Judy Garland and her guests found in Michael Holmes’ all new “The Judy Show!!”</p>]]></description>
-            <link>undefinedwhat-do-you-get-when-you-mix-an-internationally-acclaimed-im/index.html</link>
+            <link>https://thegrid.ai/the-judy-show/what-do-you-get-when-you-mix-an-internationally-acclaimed-im/index.html</link>
             <guid isPermaLink="false">b0adf7a2-a294-4413-aa68-a8247128a5aa</guid>
-            <pubDate>Tue, 12 Apr 2016 00:44:19 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2016 00:45:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
